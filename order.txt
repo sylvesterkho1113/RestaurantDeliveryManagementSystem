@@ -1,0 +1,7 @@
+0167406628,1001,Hot Tea,1.2,2,7.4,Order placed
+0167406628,1003,Cheese Cake,6.7,3,25.1,Order placed
+0177833558,1001,Hot Tea,1.2,3,8.6,Cancelled
+0177833558,1003,Cheese Cake,6.7,1,11.7,Order placed
+0177833558,1003,Cheese Cake,6.7,2,18.4,Order placed
+0177833558,1001,Hot Tea,1.2,4,9.8,Order placed
+0177833558,1003,Cheese Cake,6.7,3,25.1,Order placed

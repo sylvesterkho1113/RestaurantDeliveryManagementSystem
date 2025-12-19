@@ -1,0 +1,7 @@
+Chwan Kai,See,0167406628,Ixora,Ck
+TEST,TEST,1,Melaka,1
+Julie,Robert,0123456789,King Street,password
+Chwan Kai,See,0167406629,1 Jalan D1,123456
+Sylvester,Kho,0177833558,haha,12345
+hi,haha,019999999,mmu,1111
+kho,wei cong,0177833558,ixora,12345

@@ -1,0 +1,3 @@
+1001,Hot Tea,1.2,Perfect for relaxation
+1002,Hot Coffee,1.5,Rich and energizing sips
+1003,Cheese Cake,6.7,Creamy delight for dessert lover

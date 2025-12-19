@@ -1,0 +1,4 @@
+1,Cyberjaya Square,1 Jalan Multimedia,03-8312 5400,10:00-22:00
+2,Bukit Beruang,1 Jalan Bukit Beruang Utama,06-234 5400,11:00-23:00
+3,Sri Petaling,17 Jalan SP 6,08-3023 2391,11:00-00:00
+4,Penang Hill,Jalan Penang 2,012-2385736,10;00-220
